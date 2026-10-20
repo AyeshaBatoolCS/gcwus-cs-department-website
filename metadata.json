@@ -1,0 +1,6 @@
+{
+  "name": "GCWUS CS Department Website",
+  "description": "Official Computer Science Department website for Government College Women University Sialkot, Pakistan. Featuring academic programs, faculty profiles, research labs, admissions, photo gallery, student AI assistant, and interactive inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
